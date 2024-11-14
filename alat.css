@@ -1,11 +1,47 @@
 .alatbody {
   text-align: center;
+  border: 10px solid black;
+  width:600px;
+  height: 530px;
+  margin-left: 430px;
+  margin-top: 30px;
+  padding: 20px;
+ 
 }
 
 .alatlogo {
   width: 80px;
+  
 }
 .cbnthin {
   width: 120px;
   margin-left: -5px;
 }
+.logos{
+ margin-left: 130px;
+ border: 1px solid black;
+ width: 400px;
+ height: 330px;
+ justify-content: center;
+ margin-bottom: 20px;
+ 
+}
+.password{
+  float: right;
+  color: #ab2656;
+}
+.pass{
+  float: left;
+}.loginb{
+  width: 298.55px;
+  height: 30.99px;
+  background-color: #ab2656;
+  margin-bottom: 60px;
+}
+.inputi{
+  width: 350.55px;
+  height: 35.99px;
+  border-radius: 5px;
+  
+}
+
